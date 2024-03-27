@@ -1,0 +1,43 @@
+body {
+	border: 0px;
+	background-color: #f4ebc3;
+	align-items: center;
+	justify-content: center;
+	display: flex;  
+	height: 100vh;
+
+}
+
+.container-fluid {
+	background-color: #f4ebc3;
+	padding: 10px;
+	position: inline;
+	justify-content: center;
+}
+
+.container{
+	background-color: #d1c48f;
+	text-align: center;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.menu {
+	width: 600px;
+}
+.nav-link{
+	color: #6e6959;
+}
+
+.nav-link:hover {
+	color: black;
+}
+.carousel {
+	height: 70%;
+	width: 80%;
+	text-align: center;
+	left: 10%;
+}
